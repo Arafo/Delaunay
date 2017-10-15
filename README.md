@@ -99,3 +99,5 @@ import com.arafo.delaunay.Point
 ## License
 
 Delaunay is Copyright (c) 2017. It is free software, and may be redistributed under the terms specified in the [LICENSE] file.
+
+[LICENSE]: /LICENSE
